@@ -38,5 +38,5 @@ h2 {
 
 @keyframes load {
   0% { width: 0; }
-  100% { width: 5%; }
+  100% { width: 25%; }
 }
